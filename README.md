@@ -60,8 +60,9 @@ Let's innovate and build something amazing together! ✨
  
 ---  
 
-## Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taimoor-ali-8694a52ba)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:9078472@gmail.com)  
+## Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taimoor-ali-8694a52ba/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:9078472@gmail.com)
+
 
 Feel free to explore my repositories 😊!!    
