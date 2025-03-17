@@ -1,10 +1,17 @@
 ## Hi there I'm Taimoor Ali👋
-Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, PHP, Bootstrap, Laravel, SQL and Figma, I aim to combine technical expertise with business acumen to deliver impactful solutions.
+Welcome to my GitHub profile! 🚀  
+
+I'm a **Full Stack Developer** with a passion for building **scalable, interactive, and high-performance web applications**. With expertise in **Laravel, Node.js, Shopify App Development and API integrations**, I specialize in creating seamless eCommerce solutions and automation tools.  
+
+My technical stack includes **HTML, CSS, JavaScript, PHP, Bootstrap, Laravel, SQL, GraphQL, REST API**. Beyond development, I focus on **business-driven solutions**, helping brands and entrepreneurs scale their online presence effectively.  
+
+Let's innovate and build something amazing together! ✨  
+
 
 ## About Me
 - 💼 Full Stack Developer specializing in **E-commerce Solutions**
-- 🚀 Experienced in **Laravel, MERN Stack, Shopify Development and API Development**
-- 🌱 Currently enhancing my skills in **GraphQL, REST API, and Shopify App Development**
+- 🚀 Experienced in **Laravel, Node.js, Shopify Development and API Development**
+- 🌱 Currently enhancing my skills in **GraphQL, REST API, and Shopify Development**
 - ✨ Built and managed **custom CRM & ERP systems, eCommerce platforms, and real estate applications**
 - 🎯 Passionate about **automation, integrations, and scaling online businesses**
 - 🎓 Pursuing **Bachelor's in Computer Science**
@@ -23,12 +30,47 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
-## Projects
-- [Netflix Clone](https://reactjsmini.ccbp.tech/login):  A Netflix Clone App developed with user authentication. Username: **saira**,  Password: **princess@9**
-- [NxT Trendz](https://reactjsmini.ccbp.tech/login):  An E-Commerce website created using ReactJS with user authentication. Username: **rahul**,  Password: **rahul@2021**
+## Projects  
 
-## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanya-shankar/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasanya.webdev@gmail.com)
+### AI-Powered & E-Commerce Solutions  
+- **[Whispersheet](#)** – Shopify-integrated **Google Sheets automation tool** for seamless store management.  
+- **[AI-Powered Content Generation for SEO](#)** – An **AI automation system** that generates SEO-optimized content for targeted Google keywords, helping boost store visibility and organic traffic.  
 
-Feel free to explore my repository 😊!!
+### Web Applications  
+- **[Real Estate Management System](#)** – A full-stack platform built with **Laravel, Vue.js & Inertia**, handling **property shares, rental contracts, and investments**.  
+- **[ERP System for Industries](#)** – A custom-built **Laravel-based ERP** for managing **inventory, dispatch, customer relations, and financial transactions**.  
+
+## Projects  
+
+### AI-Powered & E-Commerce Solutions  
+- **[Whispersheet](#)** – Shopify-integrated **Google Sheets automation tool** for seamless store management.  
+- **[AI-Powered Content Generation for SEO](#)** – An **AI automation system** that generates SEO-optimized content for targeted Google keywords, helping boost store visibility and organic traffic.  
+
+### Web Applications  
+- **[Real Estate Management System](#)** – A full-stack platform built with **Laravel, Vue.js & Inertia**, handling **property shares, rental contracts, and investments**.  
+- **[ERP System for Industries](#)** – A custom-built **Laravel-based ERP** for managing **inventory, dispatch, customer relations, and financial transactions**.  
+
+### Laravel Mini Projects  
+- **Custom Laravel Order Dashboard with Multi-Language Invoicing**  
+  - Developed a **custom order management dashboard** using **Laravel Orders API**.  
+  - Implemented a **PDF invoice generation system** for customers in **English, Spanish, and Arabic**.  
+
+- **Student Violation & Fine Management System**  
+  - Built a **fine management system** for universities.  
+  - Students received automated fine **challans via email**, which they had to **pay manually**.  
+
+- **University Bus Tracking System**  
+  - Developed a **real-time student bus tracking system** to help students **track university transport (points)**.  
+  - Helped students **manage their time effectively**.  
+
+- **Shopify Products API to XML with Multi-Language Translation**  
+  - Created a **Laravel-based API** that fetched **Shopify products in JSON** and converted them into **multi-language XML (English & Arabic)**.  
+  - Implemented **automated translation** for Shopify products.
+  - 
+---  
+
+## Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taimoor-ali-8694a52ba)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:9078472@gmail.com)  
+
+Feel free to explore my repositories 😊!!    
