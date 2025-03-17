@@ -43,20 +43,21 @@ Let's innovate and build something amazing together! ✨
 ### Laravel Mini Projects  
 - **Custom Laravel Order Dashboard with Multi-Language Invoicing**  
   - Developed a **custom order management dashboard** using **Laravel Orders API**.  
-  - Implemented a **PDF invoice generation system** for customers in **English, Spanish, and Arabic**.  
+  - Implemented a **PDF invoice generation system** for customers in **English, Spanish, and Arabic**.
+
+  
+- **Shopify Products API to XML with Multi-Language Translation**  
+  - Created a **Laravel-based API** that fetched **Shopify products with translation in JSON** using GraphQl.
+  - Converted them into **multi-language XML (English & Albanian)**.
 
 - **Student Violation & Fine Management System**  
   - Built a **fine management system** for universities.  
   - Students received automated fine **challans via email**, which they had to **pay manually**.  
 
 - **University Bus Tracking System**  
-  - Developed a **real-time student bus tracking system** to help students **track university transport (points)**.  
+  - Developed a **student bus tracking system** to help students **track university transport (points)**.  
   - Helped students **manage their time effectively**.  
-
-- **Shopify Products API to XML with Multi-Language Translation**  
-  - Created a **Laravel-based API** that fetched **Shopify products in JSON** and converted them into **multi-language XML (English & Arabic)**.  
-  - Implemented **automated translation** for Shopify products.
-  - 
+ 
 ---  
 
 ## Let's Connect!  
