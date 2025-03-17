@@ -40,16 +40,6 @@ Let's innovate and build something amazing together! ✨
 - **[Real Estate Management System](#)** – A full-stack platform built with **Laravel, Vue.js & Inertia**, handling **property shares, rental contracts, and investments**.  
 - **[ERP System for Industries](#)** – A custom-built **Laravel-based ERP** for managing **inventory, dispatch, customer relations, and financial transactions**.  
 
-## Projects  
-
-### AI-Powered & E-Commerce Solutions  
-- **[Whispersheet](#)** – Shopify-integrated **Google Sheets automation tool** for seamless store management.  
-- **[AI-Powered Content Generation for SEO](#)** – An **AI automation system** that generates SEO-optimized content for targeted Google keywords, helping boost store visibility and organic traffic.  
-
-### Web Applications  
-- **[Real Estate Management System](#)** – A full-stack platform built with **Laravel, Vue.js & Inertia**, handling **property shares, rental contracts, and investments**.  
-- **[ERP System for Industries](#)** – A custom-built **Laravel-based ERP** for managing **inventory, dispatch, customer relations, and financial transactions**.  
-
 ### Laravel Mini Projects  
 - **Custom Laravel Order Dashboard with Multi-Language Invoicing**  
   - Developed a **custom order management dashboard** using **Laravel Orders API**.  
