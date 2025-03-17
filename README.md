@@ -1,14 +1,13 @@
 ## Hi there I'm Taimoor Ali👋
 Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, PHP, Bootstrap, Laravel, SQL and Figma, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=taimoorali-code&color=blueviolet)
-
 ## About Me
-- 💼 Full Stack Developer
-- 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, PHP, Laravel, Figma
-- ✨ Completed Full Stack Development in PHP & Laravel
-- 🎓 Pursuing Bachelor's in Computer Science
+- 💼 Full Stack Developer specializing in **E-commerce Solutions**
+- 🚀 Experienced in **Laravel, MERN Stack, Shopify Development and API Development**
+- 🌱 Currently enhancing my skills in **GraphQL, REST API, and Shopify App Development**
+- ✨ Built and managed **custom CRM & ERP systems, eCommerce platforms, and real estate applications**
+- 🎯 Passionate about **automation, integrations, and scaling online businesses**
+- 🎓 Pursuing **Bachelor's in Computer Science**
 
 ## Tools and Languages
 ![HTML](https://img.shields.io/badge/HTML-FF4500?style=flat&logo=html5&logoColor=white)
